@@ -13,8 +13,8 @@
   },
   "files": [
         "/Project_Package",
-        "/Project_Package/TestPackage.asmdef",
-        "/Project_Package/TestPackage.asmdef.meta"
+         "/Project_Package.meta",
+        "/package.json.meta"
    ],
   "type": "library",
   "hideInEditor": false
