@@ -13,7 +13,9 @@
   },
   "files": [
         "/Project_Package",
-         "/Project_Package.meta",
+        "/Project_Package.meta",
+        "/Project_Package/TestPackage.asmdef",
+        "/Project_Package/TestPackage.asmdef.meta",
         "/package.json.meta"
    ],
   "type": "library",
