@@ -13,7 +13,7 @@
   },
   "files": [
         "/Project_Package",
-         "/Project_Package.meta",
+         "/Project_Package.meta"
    ],
   "type": "library",
   "hideInEditor": false
