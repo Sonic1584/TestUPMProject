@@ -14,7 +14,6 @@
   "files": [
         "/Project_Package",
          "/Project_Package.meta",
-        "/package.json.meta"
    ],
   "type": "library",
   "hideInEditor": false
