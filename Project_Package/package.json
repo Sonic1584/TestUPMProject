@@ -1,0 +1,16 @@
+{
+  "name": "com.mycompany.testpackage.source",
+  "displayName": "TestPackage_Source",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "description": "This package.json is needed in order to avoid circular deps in tests / example project. 'files' property works for remote urls (eg. Github), but not for local file paths",
+  "keywords": [
+    "Unity"
+  ],
+  "category": "PackageTest",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
